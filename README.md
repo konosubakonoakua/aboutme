@@ -1,5 +1,5 @@
 
-### Hello hello hello 👋
+### 👋
 
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=konosubakonoakua)](https://github.com/anuraghazra/github-readme-stats)
@@ -9,8 +9,8 @@
 -->
 
 
-- I am konosubakonoakua 
-- studying deeplearning and python 
+- automotive software engineer @BOSCH
+- maker
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=konosubakonoakua&count_private=true&show_icons=true" />
