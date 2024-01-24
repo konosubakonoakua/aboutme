@@ -17,6 +17,17 @@
 - vim/cli lover 🥰
   
 - [Zig](https://ziglang.org/) fan
+
+  [![OS](https://skillicons.dev/icons?i=linux,windows,qnx)](https://skillicons.dev)
+
+  [![Editor](https://skillicons.dev/icons?i=neovim,vim,vscode)](https://skillicons.dev)
+
+  [![Tool](https://skillicons.dev/icons?i=git,github,githubactions,stackoverflow,gmail,jenkins)](https://skillicons.dev)
+
+  [![Framework](https://skillicons.dev/icons?i=opencv,pytorch,sklearn,tensorflow,vue,qt,anaconda,arduino,d3,fastapi)](https://skillicons.dev)
+  
+  [![Lang](https://skillicons.dev/icons?i=bash,python,lua,c,cpp,cmake,matlab,powershell,latex,md,rust,zig)](https://skillicons.dev)
+
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
