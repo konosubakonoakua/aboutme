@@ -7,8 +7,6 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konosubakonoakua)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-<p align="left">
   
 - automotive software engineer @[BOSCH](https://www.bosch.com/)
   
@@ -33,6 +31,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=konosubakonoakua&count_private=true&show_icons=true" />
 </a>
+<img align="center" width="100%" src="https://wakatime.com/share/@018df01a-2a6b-4a2c-b711-3ef8ecc0927d/ba0eb42f-61e0-4294-b4d7-e0417f8d2c78.svg"/>
+<img align="center" width="100%" src="https://wakatime.com/share/@018df01a-2a6b-4a2c-b711-3ef8ecc0927d/59bb7253-5359-46b6-9427-49e06a490aee.svg"/>
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konosubakonoakua&hide=jupyter%20notebook" />
