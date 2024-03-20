@@ -27,6 +27,7 @@
   [![Lang](https://skillicons.dev/icons?i=bash,python,lua,c,cpp,cmake,matlab,powershell,latex,md,rust,zig)](https://skillicons.dev)
 
 </p>
+<img align="right" width="100%" src="https://github.com/konosubakonoakua/konosubakonoakua/releases/download/images/capy.png"/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=konosubakonoakua&count_private=true&show_icons=true" />
@@ -38,7 +39,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konosubakonoakua&hide=jupyter%20notebook" />
 </a>
 -->
-
 
 <!--
 **yoyoyo-yo/yoyoyo-yo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
