@@ -7,15 +7,15 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konosubakonoakua)](https://github.com/anuraghazra/github-readme-stats)
 -->
-- Heavy-Ion Accelerator software engineer @ impcas
+- Heavy-Ion Accelerator software engineer @ impcas (currently)
 
-- automotive software engineer @[BOSCH](https://www.bosch.com/)
+- an automotive software engineer @[BOSCH](https://www.bosch.com/)
   
-- maker/PCB/Soldering
+- a maker
   
-- vim/cli lover 🥰
+- a vim/cli lover 🥰
   
-- [Zig](https://ziglang.org/) fan
+- [my tech notes here](https://github.com/konosubakonoakua/blog/issues)
 
   [![OS](https://skillicons.dev/icons?i=linux,windows,qnx)](https://skillicons.dev)
 
