@@ -7,7 +7,8 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konosubakonoakua)](https://github.com/anuraghazra/github-readme-stats)
 -->
-  
+- Heavy-Ion Accelerator software engineer @ impcas
+
 - automotive software engineer @[BOSCH](https://www.bosch.com/)
   
 - maker/PCB/Soldering
