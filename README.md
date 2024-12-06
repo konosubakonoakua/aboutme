@@ -9,8 +9,10 @@
 -->
 - Heavy-Ion Accelerator software engineer @ impcas (currently)
 
-- an automotive software engineer @[BOSCH](https://www.bosch.com/)
-  
+- an automotive software engineer @[BOSCH](https://www.bosch.com/) (Was😊)
+  - working on beam diagnosis/feedback electronics development
+  - use mostly EPICS/Phoebus/python
+
 - a maker
   
 - a vim/cli lover 🥰
