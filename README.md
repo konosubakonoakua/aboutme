@@ -8,10 +8,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konosubakonoakua)](https://github.com/anuraghazra/github-readme-stats)
 -->
 - Heavy-Ion Accelerator software engineer @ impcas (currently)
-
-- an automotive software engineer @[BOSCH](https://www.bosch.com/) (Was😊)
   - working on beam diagnosis/feedback electronics development
   - use mostly EPICS/Phoebus/python
+
+- an automotive software engineer @[BOSCH](https://www.bosch.com/) (Was😊)
 
 - a maker
   
