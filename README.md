@@ -7,7 +7,7 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konosubakonoakua)](https://github.com/anuraghazra/github-readme-stats)
 -->
-- Heavy-Ion Accelerator software engineer @ impcas (currently)
+- Heavy-Ion Accelerator electronics engineer @ impcas (currently)
   - working on beam diagnosis/feedback electronics development
   - use mostly EPICS/Phoebus/python
 
